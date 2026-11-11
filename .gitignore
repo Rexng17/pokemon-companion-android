@@ -1,0 +1,11 @@
+# Installers belong in GitHub Releases; this repository contains public docs only.
+*.apk
+*.aab
+*.zip
+*.keystore
+*.jks
+*.p12
+.env
+.env.*
+local.properties
+.DS_Store

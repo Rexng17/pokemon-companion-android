@@ -1,0 +1,46 @@
+name: 使用问题 / Bug report
+description: 安装、识别、悬浮窗或招式查询问题 / Installation, recognition, overlay or move lookup
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "感谢试用！此反馈是公开的。请不要提交账号密码或设备唯一标识；图片请先遮住昵称、通知和其他个人信息。 / Reports are public. Remove personal information from optional screenshots."
+  - type: input
+    id: version
+    attributes:
+      label: App 版本 / App version
+      placeholder: "0.7.0"
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: 手机型号与系统 / Phone and OS
+      placeholder: "Redmi Note 14 / Android 15 / HyperOS …"
+    validations:
+      required: true
+  - type: dropdown
+    id: screen
+    attributes:
+      label: 出现在哪个页面 / Where it happens
+      options:
+        - 安装或启动 / Installation or launch
+        - 选队六只 / Team selection
+        - 查看状态或能力 / Status or abilities
+        - 双打对战两只 / Doubles battle
+        - 手动图鉴查询 / Manual lookup
+        - 其他 / Other
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 具体操作与结果 / Steps and what happened
+      description: "请描述你做了什么、期望看到什么、实际看到了什么。识别错误请写出应有的宝可梦或属性。 / Include steps, expected result and actual result; for recognition errors, include the correct Pokémon or types."
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: 补充信息（可选） / Optional details
+      description: "可说明游戏语言、横竖屏、网络状态，或添加已遮住个人信息的截图。 / Game language, orientation, network status or a redacted screenshot."
