@@ -1,4 +1,4 @@
-# Installers belong in GitHub Releases; this repository contains public docs only.
+# Versioned trial installers may be published in downloads/ when release uploads are unavailable.
 *.apk
 *.aab
 *.zip
@@ -9,3 +9,5 @@
 .env.*
 local.properties
 .DS_Store
+
+!downloads/*.apk

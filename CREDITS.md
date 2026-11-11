@@ -1,6 +1,6 @@
 # 资料来源与第三方说明 / Credits
 
-适用版本 / Version: 0.7.1 · 2026-11-06
+适用版本 / Version: 0.7.2 · 2026-11-11
 
 ## 图鉴与属性 / Reference data
 
@@ -26,7 +26,7 @@ Pokémon portraits originate from 52Poké Wiki; type-icon references were obtain
 ## Android 组件 / Android components
 
 - [AndroidX Core 1.12.0](https://developer.android.com/jetpack/androidx/releases/core)，Copyright The Android Open Source Project，Apache-2.0：[许可文本](notices/Apache-2.0.txt)。
-- [Google Mobile Ads Next-Gen SDK 1.6.0](https://developers.google.com/admob/android/next-gen/quick-start) 与 [User Messaging Platform 4.0.0](https://developers.google.com/admob/android/privacy)，仅在未来启用广告的构建中使用，受 Google 相应 SDK 条款约束。当前 0.7.1 APK 不包含这两项。These two optional SDKs are excluded from the current 0.7.1 APK.
+- [Google Mobile Ads Next-Gen SDK 1.6.0](https://developers.google.com/admob/android/next-gen/quick-start) 与 [User Messaging Platform 4.0.0](https://developers.google.com/admob/android/privacy)，仅在未来启用广告的构建中使用，受 Google 相应 SDK 条款约束。当前 0.7.2 APK 不包含这两项。These two optional SDKs are excluded from the current 0.7.2 APK.
 - Android 平台及 SDK 自带组件继续适用各自的第三方许可；上述列举不改变这些权利。
 
 本下载仓库未将整个应用或第三方资料声明为 MIT 或其他统一开源许可。README、APK 与引用的数据、软件和图像应分别按各自权利理解。

@@ -1,6 +1,6 @@
 # 试用版隐私说明 / Trial privacy notice
 
-适用版本：0.7.1。更新日期：2026-11-06。
+适用版本：0.7.2。更新日期：2026-11-11。
 
 ## 中文
 
@@ -15,7 +15,7 @@
 ### 联网功能
 
 - **热门招式**：向 `championsbattledata.com` 请求所查看宝可梦的标识及双打统计，不发送截图。服务方可接收到 IP 地址及常规请求信息。结果在本机缓存，正常情况下 24 小时内复用，过期清理时最多保留 7 天和 64 条；离线图鉴和本地识别不依赖此服务。
-- **广告**：0.7.1 不包含 Google 广告或同意管理 SDK，不初始化、不请求、不展示广告。热门招式查询仍需要上述网络请求；本版本没有为使用统计添加埋点。
+- **广告**：0.7.2 不包含 Google 广告或同意管理 SDK，不初始化、不请求、不展示广告。热门招式查询仍需要上述网络请求；本版本没有为使用统计添加埋点。
 - **下载与反馈**：GitHub 管理下载页面和公开 Issues，适用 [GitHub 隐私声明](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)。App 本身不要求 GitHub 登录，也没有自动上传问题报告。
 
 ### 权限与反馈
@@ -26,7 +26,7 @@
 
 ## English
 
-This notice covers TypeDex trial version 0.7.1, dated 2026-11-06. The project’s maintenance and feedback channel is [Rexng17/pokemon-companion-android](https://github.com/Rexng17/pokemon-companion-android/issues). No app account is required.
+This notice covers TypeDex trial version 0.7.2, dated 2026-11-11. The project’s maintenance and feedback channel is [Rexng17/pokemon-companion-android](https://github.com/Rexng17/pokemon-companion-android/issues). No app account is required.
 
 ### Screen capture and local storage
 
@@ -37,7 +37,7 @@ Favorites, the selected Pokémon, language and overlay layout preferences are st
 ### Network access
 
 - **Popular moves:** requests to `championsbattledata.com` include the selected Pokémon identifier and doubles statistics parameters, never a screenshot. The service may receive your IP address and ordinary request metadata. Cached data is normally reused for 24 hours and pruned to at most seven days and 64 entries. Offline lookups and local recognition do not require this service.
-- **Ads:** version 0.7.1 includes neither Google’s advertising SDK nor its consent SDK. It does not initialize, request or show ads. Popular move lookups still make the network requests described above; no usage analytics have been added.
+- **Ads:** version 0.7.2 includes neither Google’s advertising SDK nor its consent SDK. It does not initialize, request or show ads. Popular move lookups still make the network requests described above; no usage analytics have been added.
 - **Downloads and feedback:** GitHub hosts downloads and public Issues under its [privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). The app does not require GitHub sign-in and does not automatically upload bug reports.
 
 ### Permissions and contact

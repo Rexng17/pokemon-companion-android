@@ -4,7 +4,7 @@
 
 TypeDex is an unofficial Android companion for Pokémon Champions, now available for early testing. Wait for the game screen to settle, tap **Scan** in the overlay, and check the opponent’s base type weaknesses. In a doubles battle, you can also see the four most popular moves for each active opponent.
 
-[Download the 0.7.1 trial APK](https://github.com/Rexng17/pokemon-companion-android/releases/download/v0.7.1/pokemon-companion-0.7.1.apk) · [Release notes](https://github.com/Rexng17/pokemon-companion-android/releases/tag/v0.7.1) · [Send feedback](https://github.com/Rexng17/pokemon-companion-android/issues/new/choose) · [简体中文](README.md)
+[Download the 0.7.2 trial APK](https://github.com/Rexng17/pokemon-companion-android/raw/refs/tags/v0.7.2/downloads/pokemon-companion-0.7.2.apk) · [Release notes](https://github.com/Rexng17/pokemon-companion-android/releases/tag/v0.7.2) · [Send feedback](https://github.com/Rexng17/pokemon-companion-android/issues/new/choose) · [简体中文](README.md)
 
 **Android 8.0+ · About 3.7 MB · Free to try · No account or API key required**
 
@@ -23,11 +23,11 @@ Recognition and type lookups run on your phone. Captured frames are processed in
 
 ## Install
 
-1. Open the APK download link on your Android phone, or choose `pokemon-companion-0.7.1.apk` under **Assets** on the release page.
+1. Open the APK download link on your Android phone, or follow **Download APK** in the release description.
 2. Open the file. If Android asks, allow installation from the browser or file manager you are using, then follow the system prompts.
-3. Open TypeDex and complete the welcome screen. Offline lookups are available immediately. Enable the overlay separately when you want to scan a game screen.
+3. Open TypeDex to go straight to the reference home screen. Offline lookups are available immediately. Enable the overlay separately when you want to scan a game screen.
 
-GitHub’s automatic `Source code (zip)` and `Source code (tar.gz)` downloads contain this distribution repository’s documents. They are **not Android installers**. Choose the `.apk` file. If installation fails, keep the exact system message for your report.
+GitHub’s automatic `Source code (zip)` and `Source code (tar.gz)` downloads are compressed repository files. Choose the `.apk` file. If installation fails, keep the exact system message for your report.
 
 ## Try it in a battle
 
@@ -44,8 +44,8 @@ Drag the title to move the window. Pinch inside it to resize. Use **−** to col
 - Weaknesses use base types. Abilities, held items, weather, terrain and temporary type changes are not included; this is not a full damage calculator.
 - Popular moves come from [Pokémon Champions Battle Data](https://championsbattledata.com/) doubles statistics. They are not a confirmed opponent moveset. A first lookup needs internet access; valid cached results remain available offline. Expand the data details to see the actual date and aggregation scope.
 - Recognition may fail on unfamiliar layouts, obscured portraits or similar forms. Correct results manually when needed.
-- Version 0.7.1 has no ads and includes no advertising SDK. It keeps the first-use guide and opens the main screen directly on later launches.
-- Version 0.7.1 is an early trial. Overlay permissions, gestures and capture prompts still need testing on more phones. See the [privacy notice](PRIVACY.md#english).
+- Version 0.7.2 has no ads and includes no advertising SDK. It opens the reference home screen directly, including on the first launch.
+- Version 0.7.2 is an early trial. Overlay permissions, gestures and capture prompts still need testing on more phones. See the [privacy notice](PRIVACY.md#english).
 
 ## Feedback
 

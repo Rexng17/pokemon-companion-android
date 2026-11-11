@@ -4,7 +4,7 @@
 
 一款正在邀请玩家试用的非官方 Android 小工具：等游戏画面停稳，点一下悬浮窗上的「识别」，就能查看对手的基础属性弱点；对战时还可以参考双打热门招式 Top 4。
 
-[下载 0.7.1 试用版 APK](https://github.com/Rexng17/pokemon-companion-android/releases/download/v0.7.1/pokemon-companion-0.7.1.apk) · [版本说明](https://github.com/Rexng17/pokemon-companion-android/releases/tag/v0.7.1) · [反馈问题](https://github.com/Rexng17/pokemon-companion-android/issues/new/choose) · [English](README.en.md)
+[下载 0.7.2 试用版 APK](https://github.com/Rexng17/pokemon-companion-android/raw/refs/tags/v0.7.2/downloads/pokemon-companion-0.7.2.apk) · [版本说明](https://github.com/Rexng17/pokemon-companion-android/releases/tag/v0.7.2) · [反馈问题](https://github.com/Rexng17/pokemon-companion-android/issues/new/choose) · [English](README.en.md)
 
 **Android 8.0 及以上 · 约 3.7 MB · 免费试用 · 无需注册或填写 API Key**
 
@@ -21,11 +21,11 @@
 
 ## 下载与安装
 
-1. 用手机浏览器打开上面的 **APK 下载**链接；也可进入版本页面，在 **Assets** 中选择 `pokemon-companion-0.7.1.apk`。
+1. 用手机浏览器打开上面的 **APK 下载**链接；也可进入版本页面，点击正文中的 **APK 下载**链接。
 2. 打开下载的 APK。系统要求时，为这次使用的浏览器或文件管理器允许「安装未知应用」，然后按系统提示安装。
-3. 打开「弱点图鉴」，完成首次引导。只查询图鉴时可以直接使用；需要游戏内识别时，再到「悬浮助手」开启悬浮窗权限。
+3. 打开「弱点图鉴」，直接进入图鉴首页。只查询图鉴时可以直接使用；需要游戏内识别时，再到「悬浮助手」开启悬浮窗权限。
 
-GitHub 页面自动附带的 `Source code (zip)` / `Source code (tar.gz)` 是此下载仓库的文档包，**不是手机安装包**。请下载以 `.apk` 结尾的文件。手机若无法安装，请先记录系统提示并反馈。
+GitHub 页面自动附带的 `Source code (zip)` / `Source code (tar.gz)` 是仓库文件的压缩包。请下载以 `.apk` 结尾的文件。手机若无法安装，请先记录系统提示并反馈。
 
 ## 第一局怎么用
 
@@ -42,8 +42,8 @@ GitHub 页面自动附带的 `Source code (zip)` / `Source code (tar.gz)` 是此
 - **识别范围**：目前按三种中文横屏游戏页面适配；其他布局、画面遮挡、相似形态可能识别不准。英文界面已经可用，英文游戏截图的识别仍待验证。设置入口为首页右上角「☰ → 语言 / Language」。
 - **弱点含义**：按宝可梦基础属性计算，不包含特性、道具、天气、场地或临时属性变化。它是相性速查，不是完整伤害计算器。
 - **热门四招**：来自 [Pokémon Champions Battle Data](https://championsbattledata.com/) 的双打使用率，不能代表这个对手实际携带的四招。首次查询需要联网；已有有效缓存时可离线查看。详情中的「数据说明」保留日期与统计范围。
-- **无广告**：0.7.1 不展示广告，也不包含广告 SDK；首次使用保留简短引导，之后直接进入首页。
-- **版本状态**：0.7.1 为早期试用版。不同手机的悬浮权限、双指操作和截图授权仍需要更多实际反馈。请参阅[隐私说明](PRIVACY.md)。
+- **无广告**：0.7.2 不展示广告，也不包含广告 SDK；首次启动和之后打开都会直接进入图鉴首页。
+- **版本状态**：0.7.2 为早期试用版。不同手机的悬浮权限、双指操作和截图授权仍需要更多实际反馈。请参阅[隐私说明](PRIVACY.md)。
 
 ## 用完告诉我这三件事
 
